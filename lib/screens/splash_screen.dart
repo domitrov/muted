@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
-import '../screens/home_screen.dart';
+import 'home_screen.dart';
 import '../components/splash_text_logo.dart';
 
 class SplashScreen extends StatelessWidget {
